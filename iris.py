@@ -51,4 +51,4 @@ st.write(prediction_proba) #displays the prediction probability
 #open cmd
 #type:
 #cd desktop
-#streamlit rub <filename>
+#streamlit run <filename>
